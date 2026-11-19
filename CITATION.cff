@@ -1,0 +1,25 @@
+# Citation for the Safety-LAD data set (Ladder Audit and Diffusion Data Set), published on NYU
+# UltraViolet in November 2026: https://doi.org/10.58153/t00gt-xer32
+cff-version: 1.2.0
+message: "If you use Safety-LAD, please cite the data set and the accompanying paper."
+type: dataset
+title: "Safety-LAD: Ladder Audit and Diffusion Data Set"
+version: "1.0.0"
+authors:
+  - family-names: "Park"
+    given-names: "Andrew B."
+    affiliation: "New York University Tandon School of Engineering"
+  - family-names: "Awada"
+    given-names: "Mohamad"
+    affiliation: "New York University"
+doi: "10.58153/t00gt-xer32"
+# The photorealized pictures are under the FLUX [dev] Non-Commercial License v2.1 (not an SPDX
+# licence, so not listed here); everything else in the data is CC BY 4.0. See ATTRIBUTIONS.md.
+license: CC-BY-4.0
+url: "https://doi.org/10.58153/t00gt-xer32"
+repository-artifact: "https://ultraviolet.library.nyu.edu/records/t00gt-xer32"
+keywords:
+  - construction safety
+  - ladder
+  - OSHA 29 CFR 1926.1053
+  - computer vision
